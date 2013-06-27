@@ -11,3 +11,4 @@ Used this link to eliminate the sqlite3 dependency:
     http://stackoverflow.com/questions/3954307/rails-3-how-do-i-avoid-database-altogether
 
 
+  
