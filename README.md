@@ -1,6 +1,5 @@
 rails_building_blocks_dummy_app
 -------------------------------
-
 This sqlite app exists purely to illustrate the functionality of
 a chef-rails_building_blocks cookbook.
 
